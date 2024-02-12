@@ -1,6 +1,5 @@
 <h1 align="center">Всем привет! Меня зовут Никита! <img height=40 src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></h1>
 
----
 <h2 align="center">Frontend-Разработчик</h2>
 <div align="center"><img height="200" alt="змейка" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/e28d072f54692037f986b8301cb0e9cf30426cac/assets/github-snake.svg"></div>
 
